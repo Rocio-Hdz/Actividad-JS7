@@ -3,10 +3,18 @@ body{
     background-color:beige;
 }
 
+h1{
+    text-align: center;
+    font-family: impact;
+    font-size: 80px;
+    color: #425F57;
+    -webkit-text-stroke: 1px #749F82 ;
+}
+
 #imagen{
     font-family: Tahoma;
     text-align: center;
-    background-color: #BCCEF8;
+    background-color: #D8D9CF;
 }
 
 img{
